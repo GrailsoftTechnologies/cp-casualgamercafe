@@ -28,8 +28,8 @@ class NavBar extends Component {
             <NavItem eventKey={1} href="/hours">
               Store Hours
             </NavItem>
-            <NavItem eventKey={2} href="/login">
-              Login
+            <NavItem eventKey={2} href="/map">
+              Location
             </NavItem>
           </Nav>
         </Navbar.Collapse>

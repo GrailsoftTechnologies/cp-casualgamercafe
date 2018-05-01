@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 import "./styles.css";
 
-class Hours extends Component {
+class MapContainer extends Component {
   render() {
     return (
       <div>
-        <h1>Hours component</h1>
+        <h1>Test</h1>
       </div>
     );
   }
 }
 
-export default Hours;
+export default MapContainer;

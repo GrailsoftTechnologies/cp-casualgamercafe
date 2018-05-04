@@ -15,16 +15,6 @@ class Home extends Component {
             drinking vinegar shaman.
           </p>
           <p>
-            Pop-up palo santo irony edison bulb keffiyeh chillwave. Ramps craft
-            beer woke, prism vice photo booth shoreditch raw denim seitan pabst
-            fingerstache kogi pork belly shaman trust fund. Helvetica lomo
-            typewriter stumptown sriracha. Chambray everyday carry shaman 8-bit
-            celiac kickstarter glossier blog slow-carb sustainable post-ironic
-            messenger bag polaroid selvage helvetica. Copper mug crucifix you
-            probably haven't heard of them taxidermy, chicharrones neutra woke
-            brooklyn fanny pack.
-          </p>
-          <p>
             Seitan tote bag fingerstache four loko coloring book single-origin
             coffee leggings dreamcatcher pork belly lyft schlitz portland.
             Salvia iPhone artisan wolf. Meh pour-over jianbing, food truck pabst
